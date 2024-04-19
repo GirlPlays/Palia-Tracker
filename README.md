@@ -5,5 +5,5 @@ For those of you who want a catch-all tracker for various Palia tasks, I thought
 <li>The Gardening tab details my favorite garden layouts with profit in mind</li>
 <li>It gives a quick checklist for furniture sets so you can easily tell which you've collected all and which you've crafted all</li><br>
 <p>
-  To download, select the file, then either select the "..." menu to download or select the download icon next to the file name
+  To download: select the file, then either select the "..." menu to download or select the download icon next to the file name
 </p>
